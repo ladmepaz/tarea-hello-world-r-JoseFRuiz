@@ -2,5 +2,6 @@
 
 add <- function(a, b) {
   # TODO: return the sum of a and b
-  return(NULL)  # Replace with your implementation
+  s <- a+b
+  return(s)  # Replace with your implementation
 }
